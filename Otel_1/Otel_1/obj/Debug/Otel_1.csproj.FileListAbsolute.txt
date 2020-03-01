@@ -1,0 +1,68 @@
+D:\Мои проекты на C#\Otel_1\Otel_1\bin\Debug\otel.mdf
+D:\Мои проекты на C#\Otel_1\Otel_1\bin\Debug\otel_log.ldf
+D:\Мои проекты на C#\Otel_1\Otel_1\bin\Debug\Otel_1.exe.config
+D:\Мои проекты на C#\Otel_1\Otel_1\bin\Debug\Otel_1.exe
+D:\Мои проекты на C#\Otel_1\Otel_1\bin\Debug\Otel_1.pdb
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.csprojResolveAssemblyReference.cache
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.Form1.resources
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.Properties.Resources.resources
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.GenerateResource.Cache
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.CoreCompileInputs.cache
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.exe
+D:\Мои проекты на C#\Otel_1\Otel_1\obj\Debug\Otel_1.pdb
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\bin\Debug\otel.mdf
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\bin\Debug\otel_log.ldf
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\bin\Debug\Otel_1.exe.config
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\bin\Debug\Otel_1.exe
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\bin\Debug\Otel_1.pdb
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.Properties.Resources.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.GenerateResource.Cache
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.exe
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.pdb
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.new_klient.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_klientov.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.spisok_slugachih.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.Home.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_nomerov_1.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.finance.resources
+C:\Users\Oleg\Desktop\Otel_1\Otel_1\obj\Debug\Otel_1.oplata.resources
+D:\GamesMailRu\Otel_1\Otel_1\bin\Debug\otel.mdf
+D:\GamesMailRu\Otel_1\Otel_1\bin\Debug\otel_log.ldf
+D:\GamesMailRu\Otel_1\Otel_1\bin\Debug\Otel_1.exe.config
+D:\GamesMailRu\Otel_1\Otel_1\bin\Debug\Otel_1.exe
+D:\GamesMailRu\Otel_1\Otel_1\bin\Debug\Otel_1.pdb
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.csprojResolveAssemblyReference.cache
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.finance.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.oplata.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.Home.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.new_klient.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.Properties.Resources.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_klientov.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_nomerov_1.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.spisok_slugachih.resources
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.GenerateResource.Cache
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.CoreCompileInputs.cache
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.exe
+D:\GamesMailRu\Otel_1\Otel_1\obj\Debug\Otel_1.pdb
+D:\с рабочего стола\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.csprojAssemblyReference.cache
+D:\с рабочего стола\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.exe
+D:\с рабочего стола\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.pdb
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\bin\Debug\Otel_1.exe.config
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.exe
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.pdb
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\bin\Debug\otel.mdf
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\bin\Debug\otel_log.ldf
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\bin\Debug\Otel_1.exe
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\bin\Debug\Otel_1.pdb
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.csprojResolveAssemblyReference.cache
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.finance.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.oplata.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.Home.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.new_klient.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.Properties.Resources.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_klientov.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.Spisok_nomerov_1.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.spisok_slugachih.resources
+D:\Мой УЧЕБНЫЙ ПРОЕКТ\Проект Отеля-20180827T114702Z-001\Проект Отеля\Otel_1\Otel_1\obj\Debug\Otel_1.csproj.GenerateResource.Cache
